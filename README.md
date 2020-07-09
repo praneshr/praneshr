@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a UX Engineer at Google, 
+I'm a UX Engineer at Google. 
 
 I'm working on multiple projects at Google including Google Admin and commerce. I primarly work on the frontend. I collborate with UX designers, researchers and product managers to create highly usable product. I code in JS, TS and other Google technologies. I also manage and contibute to few open source projects.
 
