@@ -1,12 +1,10 @@
 ### Hi there 👋
 
+I'm a UX Engineer and a Frontend lead at Google.
 
-I'm a UX Engineer and a Frontend lead at Google. 
-
-I'm working on multiple projects at Google including Google Admin and commerce. I primarly work on the frontend. I collborate with UX designers, researchers and product managers to create highly usable product. I code in JS, TS and other Google technologies. I also manage and contibute to few open source projects.
+I'm working on multiple projects at Google including Google Admin and commerce. I primarily work on the frontend. I collaborate with UX designers, researchers and product managers to create a highly usable product. I code in JS, TS and other Google technologies. I also manage and contribute to few open source projects.
 
 I'm also an amateur photographer. You can check my travel photos on Unsplash - https://unsplash.com/@praneshr
-
 
 I am reachable on:
 
